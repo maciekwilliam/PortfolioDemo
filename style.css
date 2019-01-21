@@ -1,0 +1,161 @@
+body
+{
+    background-color: #303030;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+#container
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.rectangle
+{
+    width: 960px;
+    margin: 20px;
+}
+.square
+{
+    width: 50%;
+    float: left;
+}
+#logo
+{
+    float:left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 70px;
+    width: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#zegar
+{
+    float:left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.tile1
+{
+    float: left;
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #3095d3;
+    text-align: center;
+}
+
+.tile1:hover
+{
+    background-color: #2084c3;
+}
+.tilelink
+{
+    text-decoration: none;
+    width: 230px;
+    height: 142px;
+    display: block;
+    color: #ffffff;
+}
+.tilelinkhtml5
+{
+    text-decoration: none;
+    color: #ffffff;
+}
+.tile2
+{
+    float: left;
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #666666;
+    text-align: center;
+}
+.tile2:hover
+{
+    background-color: #555555;
+}
+.tile3
+{
+    float: left;
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #93c748;
+    text-align: center;
+}
+.tile3:hover
+{
+    background-color: #92b637;
+}
+.tile4
+{
+    margin: 10px;
+    width: 440px;
+    height: 102px;
+    background-color: #ee5e32;
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;
+}
+.tile5
+{
+    margin: 10px;
+    width: 420px;
+    height: 244px;
+    background-color: #666666;
+    text-align: justify;
+    padding: 30px;
+    
+}
+.insta
+{
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: #eb678f;
+    float: left;
+}
+.insta:hover
+{
+    background-color: #da567f;
+}
+.fb
+{
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: #3f57e2;
+    float: left;
+}
+.fb:hover
+{
+    background-color: #2d46e1;
+}
+.git
+{
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: #111111;
+    float: left;
+}
+.git:hover
+{
+    background-color: #000000;
+}
+.li
+{
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: rgb(35, 71, 168);
+    float: left;
+}
+.li:hover
+{
+    background-color: rgb(26, 59, 150);
+}
